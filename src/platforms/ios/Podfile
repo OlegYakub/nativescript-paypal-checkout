@@ -1,2 +1,4 @@
+platform :ios, '11.0'
 # Includes Cards and PayPal
-pod 'Braintree'
+# pod 'Braintree'
+pod 'PayPalCheckout'
